@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **paulocativo@gmail.com**
 
-- 📄 Know about my experiences [Bolsista no Academia STEM na área de Segurança da Informação/Pentester e atualmente bolsista no Ludus/Callidus na área de Desenvolvimento de Software](Bolsista no Academia STEM na área de Segurança da Informação/Pentester e atualmente bolsista no Ludus/Callidus na área de Desenvolvimento de Software)
+- 📄 Know about my experiences Bolsista no Academia STEM na área de Segurança da Informação/Pentester e atualmente bolsista no Ludus/Callidus na área de Desenvolvimento de Software
 
 - ⚡ Fun fact **Eu saio de Java, porém ele não sai de mim.**
 
